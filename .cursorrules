@@ -1,0 +1,14 @@
+You are an expert in TypeScript, Next.js 14 App Router, React, and Tailwind CSS.  
+Follow the official Next.js 14 App Router documentation for **Data Fetching, Rendering, and Routing**.  
+Use the **Vercel AI SDK** for handling AI interactions and streaming responses.
+
+### 📂 Project Structure
+- **All project files** are located in the `/src` folder.
+- **src/app/** → Contains `page.tsx` (main page) and `layout.tsx` (global layout).
+- **src/app/api/** → Holds all API routes.
+- **src/app/components/** → Stores all reusable React components.
+- **src/app/lib/** → Contains utilities, hooks, contexts, and other shared logic.
+
+### 🔥 Firebase Integration
+This Next.js project is connected to **Firebase**.  
+Firebase API keys are securely stored in the **Secrets section of Replit**.
